@@ -89,7 +89,7 @@ public:
     }
 
     //object from class address
-    clsAddress address = clsAddress ("Buildin20", "Elhoda street", "Cairo", "Egypt");
+    clsAddress address{ "Buildin20", "Elhoda street", "Cairo", "Egypt" };
     
 
     //defaul constructor
